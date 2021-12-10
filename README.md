@@ -12,6 +12,7 @@ The server receives the log data, sorts it; and replays it back to rebuild it's 
 Prereqs:  
 Setup a Server and Client system.
 Install MemCache on Server
+Install PyMemCache modules for python
 
 1. Restart or clear all key data on MemCached server.
 2. Start Client.py and Client2.py
